@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package format="2">
   <name>lockmount_description</name>
-  <version>0.0.1</version>
+  <version>0.0.2</version>
   <description>URDF Macro for adding an adjustable, locking mount used for cameras and other sensors</description>
   <maintainer email="civerachb@clearpathrobotics.com">Chris Iverach-Brereton</maintainer>
   <author email="civerachb@clearpathrobotics.com">Chris Iverach-Brereton</author>
