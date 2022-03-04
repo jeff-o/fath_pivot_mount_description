@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 2.8.3)
-project(lockmount_description)
+project(fath_pivot_mount_description)
 
 find_package(catkin REQUIRED)
 catkin_package()

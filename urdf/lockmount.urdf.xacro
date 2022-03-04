@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <robot xmlns:xacro="http://wiki.ros.org/xacro">
-  <xacro:macro name="lockmount" params="parent_link prefix angle *origin">
+  <xacro:macro name="fath_pivot_mount" params="parent_link prefix angle *origin">
     <link name="${prefix}_base_link">
       <visual>
         <geometry>
-          <mesh filename="package://lockmount_description/meshes/lockmount_base.dae" />
+          <mesh filename="package://fath_pivot_mount_description/meshes/fath_pivot_mount_base.dae" />
         </geometry>
         <origin xyz="0 0 0" rpy="0 0 ${pi/2}" />
       </visual>
@@ -25,7 +25,7 @@
     <link name="${prefix}_hinge_link">
       <visual>
         <geometry>
-          <mesh filename="package://lockmount_description/meshes/lockmount.dae" />
+          <mesh filename="package://fath_pivot_mount_description/meshes/fath_pivot_mount.dae" />
         </geometry>
         <origin xyz="0 0 0" rpy="0 0 ${pi/2}" />
       </visual>
