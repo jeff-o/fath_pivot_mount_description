@@ -2,8 +2,8 @@
 Changelog for package fath_pivot_mount_description
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.1.0 (2022-03-11)
+------------------
 * Renamed to fath_pivot_mount.
 * Contributors: Tony Baltovski
 
