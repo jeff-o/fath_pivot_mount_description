@@ -2,6 +2,11 @@
 Changelog for package fath_pivot_mount_description
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Bump CMake version to avoid CMP0048 warning.
+* Contributors: Tony Baltovski
+
 0.1.0 (2022-03-11)
 ------------------
 * Renamed to fath_pivot_mount.
