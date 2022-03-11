@@ -2,6 +2,11 @@
 Changelog for package fath_pivot_mount_description
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Renamed to fath_pivot_mount.
+* Contributors: Tony Baltovski
+
 0.0.2 (2021-04-26)
 ------------------
 * Remove a copy & paste error in the cmake file that's breaking the install
