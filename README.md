@@ -10,9 +10,9 @@ To add the mount to your URDF, add e.g.
 
 ```xml
 <xacro:include filename="$(find fath_pivot_mount_description)/urdf/lockmount.urdf.xacro" />
-<xacro:lockmount prefix="front_camera" parent_link="front_mount" angle="${pi/8}">
+<xacro:fath_pivot_mount prefix="front_camera" parent_link="front_mount" angle="${pi/8}">
   <origin xyz="0 0 0" rpy="0 0 0" />
-</xacro:lockmount>
+</xacro:fath_pivot_mount>
 
 <xacro:sensor_d435 parent="front_camera_mount" name="front_realsense">
   <origin xyz="0 0 0" rpy="0 0 0" />
