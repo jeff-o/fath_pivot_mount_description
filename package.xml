@@ -2,7 +2,7 @@
 <package format="2">
   <name>fath_pivot_mount_description</name>
   <version>0.1.1</version>
-  <description>URDF Macro for adding an adjustable pivot mount used for cameras and other sensors. Includes the "fath" mount and Innorel F80 tripod head.</description>
+  <description>URDF Macro for adding an adjustable pivot mount used for cameras and other sensors. Includes the "fath" mount, Innorel F80 tripod head, and Neewer GM24 tripod head.</description>
   <maintainer email="civerachb@clearpathrobotics.com">Chris Iverach-Brereton</maintainer>
   <author email="civerachb@clearpathrobotics.com">Chris Iverach-Brereton</author>
   <license>BSD</license>

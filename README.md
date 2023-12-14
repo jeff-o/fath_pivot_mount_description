@@ -1,7 +1,7 @@
 fath_pivot_mount_description
 =======================
 
-This package contains a single URDF macro used to add a manually-adjustable, Fath pivot mount used for cameras and other
+This package contains URDF macros used to add a manually-adjustable, pivot mounts used for cameras and other
 sensors.
 
 ![Fath Pivot Mount](doc/fath_pivot_mount_urdf.png "The Fath pivot mount model, with an angle of pi/8")
